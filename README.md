@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antepavlinusic
 - ⛪ From Osijek
 - 👀 I’m interested in Learning, self growth and computer science
-- 🌱 I’m currently learning PHP development
+- 🌱 I’m currently learning Web programming
 - 📫 How to reach me: 
 - 🤝 LinkedIn  https://www.linkedin.com/in/ante-pavlinusic-226546109/
 - 🟢🔵🔴🟡   ante.pavlinusic@gmail.com
