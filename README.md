@@ -9,7 +9,7 @@
 ---
 
 [1]: http://www.github.com/your_contact_info
-[2]: https://www.linkedin.com/in/your_contact_info
+[2]: https://mail.google.com/mail/u/0/#inbox
 [3]: https://mail.google.com/mail/u/0/#inbox
 - 
 
