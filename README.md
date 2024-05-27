@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Web programming
 - 📫 How to reach me: 
 - 🤝 LinkedIn  https://www.linkedin.com/in/ante-pavlinusic-226546109/
-- 🟢🔵🔴🟡   ante.pavlinusic@gmail.com
+   ![e-mail-icon-mail-envelope-service-contact-message-sending-send-email-icon-e-mail-address-vector](https://github.com/antepavlinusic/antepavlinusic/assets/104673344/dcac3d8b-4f1a-42d3-b4a4-69ae0dbfa10e)
+ante.pavlinusic@gmail.com
 - 
 - 
 
