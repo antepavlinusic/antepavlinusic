@@ -8,7 +8,7 @@
 - 
 - 
 - 
-- ![What-should-a-startup-do-to-survive-12-640x400](https://user-images.githubusercontent.com/104673344/166098842-0c31f834-7b68-4bce-91cb-6388684cdac2.png)
+- ![What-should-a-startup-do-to-survive-12-640x400](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fblueherohost%2Fweb-developer-meme%2F&psig=AOvVaw3CzHQHzuoC6b38YB-L1zAN&ust=1716932899764000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjB29DnroYDFQAAAAAdAAAAABAZ)
 
 -
 <!---
