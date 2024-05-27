@@ -6,9 +6,10 @@
 - 🤝 LinkedIn  https://www.linkedin.com/in/ante-pavlinusic-226546109/
 - 🟢🔵🔴🟡   ante.pavlinusic@gmail.com
 - 
-- ![Uploading image.png…]()
-
 - 
+
+- ![aa42e21bf7047a27903f2a45e8f0e84d](https://github.com/antepavlinusic/antepavlinusic/assets/104673344/56075f89-7772-41dc-96e9-fcad6efabefc)
+
 -
 -
 <!---
