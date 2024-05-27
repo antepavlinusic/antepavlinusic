@@ -2,10 +2,8 @@
 - ⛪ From Osijek
 - 👀 I’m interested in Learning, self growth and computer science
 - 🌱 I’m currently learning Web programming
-- 📫 How to reach me: 
-- 🤝 LinkedIn  https://www.linkedin.com/in/ante-pavlinusic-226546109/
-   ![e-mail-icon-mail-envelope-service-contact-message-sending-send-email-icon-e-mail-address-vector](https://github.com/antepavlinusic/antepavlinusic/assets/104673344/dcac3d8b-4f1a-42d3-b4a4-69ae0dbfa10e)
-ante.pavlinusic@gmail.com
+- 📫 How to reach me:
+-  [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![gmail]([https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/15px-Gmail_Icon_%282013-2020%29.svg.png))][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 - 
 - 
 
